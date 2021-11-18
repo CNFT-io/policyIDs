@@ -1,8 +1,14 @@
-[
   {
     "project": "Chonky50x50",
+     "tags": [ 
+               "Chonky50x50",
+               "Seal",
+               "505001",
+               "Chonk",
+               "50x50",
+               "pixel"
+    ],
     "policies": [
         "3f30e1f7da027a0c816e01b50ac3817b8d2549a45f905861e27718cf"
     ]
   }
-]
