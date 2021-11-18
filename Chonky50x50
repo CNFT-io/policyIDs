@@ -1,4 +1,4 @@
-  {
+  [{
     "project": "Chonky50x50",
      "tags": [ 
                "Chonky50x50",
@@ -11,4 +11,4 @@
     "policies": [
         "3f30e1f7da027a0c816e01b50ac3817b8d2549a45f905861e27718cf"
     ]
-  }
+  }]
