@@ -1,0 +1,10 @@
+{
+    "project": "TiranoRun",
+    "tags": {
+      "file-type": "text/html",
+      "website": "https://tiranorun.io"
+    },
+    "policies": [
+        "53a1e4a76392391ebad8debaea37ba0b6f752ff94d73fe59a6a574fb"
+    ]
+}
